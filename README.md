@@ -1,5 +1,4 @@
-
- Project:- Retail Sales Performance Analysis & Business Intelligence Dashboard
+Project:- Retail Sales Performance Analysis & Business Intelligence Dashboard
 
 Problem Statement:-
 Retail transaction data contains valuable information about sales, products, and customers, but raw data makes it difficult for businesses to identify performance trends and make informed decisions. This project addresses the problem by transforming raw retail transaction data into an interactive Business Intelligence solution.
